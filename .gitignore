@@ -1,0 +1,78 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+*.pyo
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+venv.bak/
+env.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Конфиги с паролями
+config.py
+db_config.py
+secrets.py
+
+# Папка с загруженными фото
+photos/
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Логи
+*.log
+logs/
+
+# Отчеты 
+*.pdf
+*.xlsx
+reports/
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Системные файлы
+Thumbs.db
+desktop.ini
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Конфиги с паролями
+config.py
